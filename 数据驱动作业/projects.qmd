@@ -1,0 +1,30 @@
+---
+title: "项目经历"
+---
+
+::: {.card}
+## <i class="fa-solid fa-tree-city fa-icon"></i> 城市绿地生态评估系统开发
+**2023.03-2024.02 | 项目负责人**  
+- 开发基于Python的生态服务价值评估模型
+- 集成GIS空间分析与遥感数据解译功能
+- 系统部署于武汉市园林局，服务面积超500km²
+
+```python
+# 生态服务价值计算核心函数
+def calculate_esv(landuse, ndvi):
+    coeff = {
+        'forest': 3.45,
+        'lawn': 2.78,
+        'water': 4.12
+    }
+    return sum([coeff[lu] * area for lu, area in landuse.items()]) * ndvi
+```
+:::
+
+::: {.card}
+## <i class="fa-solid fa-seedling fa-icon"></i> 垂直绿化热岛效应监测
+**2021.09-2022.06 | 核心成员**  
+- 建立20个城市样点的微气候观测网络
+- 开发基于Arduino的自动监测设备
+- 数据分析显示垂直绿化使环境温度降低1.2-3.4℃
+:::

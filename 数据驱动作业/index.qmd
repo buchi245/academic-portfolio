@@ -1,0 +1,38 @@
+---
+title: "许丽华 - 生态学硕士"
+---
+
+::: {.card}
+![个人照片](profile.jpg){.rounded-circle .img-fluid .mx-auto .d-block width="200"}
+
+**::: {.text-center .mt-3}**
+<i class="fa-solid fa-user-graduate fa-icon"></i>生态学硕士 | 华中农业大学  
+<i class="fa-solid fa-location-dot fa-icon"></i>湖北武汉  
+<i class="fa-solid fa-envelope fa-icon"></i>xulihua@example.com
+:::
+:::
+
+::: {.card}
+## <i class="fa-solid fa-award fa-icon"></i>荣誉奖项
+- 2024 全国大学生生态创新大赛一等奖
+- 2023 湖北省优秀毕业生
+- 2022 国家奖学金获得者
+- 2021 华中农大科技创新标兵
+:::
+
+::: {.card}
+## <i class="fa-solid fa-gears fa-icon"></i>专业技能
+<div class="row">
+<div class="col-md-6">
+**编程能力**  
+<i class="fa-solid fa-circle-check text-success"></i> R/Python  
+<i class="fa-solid fa-circle-check text-success"></i> GIS/ENVI  
+<i class="fa-solid fa-circle-check text-success"></i> MATLAB
+</div>
+<div class="col-md-6">
+**语言能力**  
+<i class="fa-solid fa-circle-check text-success"></i> 英语 CET-6  
+<i class="fa-solid fa-circle-check text-success"></i> 德语 A2
+</div>
+</div>
+:::

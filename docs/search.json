@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "科研成果",
+    "section": "",
+    "text": "Xu L, et al. (2024). “基于多源遥感的武汉城市绿地降温效应研究”. 《生态学报》 44(3): 123-135 (SCI, IF=3.789)\nXu L, et al. (2023). “垂直绿化对城市热岛效应的缓解作用”. 《应用生态学报》 34(5): 1123-1132 (CSCD核心)\n\n\n\n\n\n2024年国际城市生态学大会口头报告（柏林）\n2023年全国青年生态学者论坛海报展示一等奖"
+  },
+  {
+    "objectID": "publications.html#期刊论文",
+    "href": "publications.html#期刊论文",
+    "title": "科研成果",
+    "section": "",
+    "text": "Xu L, et al. (2024). “基于多源遥感的武汉城市绿地降温效应研究”. 《生态学报》 44(3): 123-135 (SCI, IF=3.789)\nXu L, et al. (2023). “垂直绿化对城市热岛效应的缓解作用”. 《应用生态学报》 34(5): 1123-1132 (CSCD核心)"
+  },
+  {
+    "objectID": "publications.html#会议报告",
+    "href": "publications.html#会议报告",
+    "title": "科研成果",
+    "section": "",
+    "text": "2024年国际城市生态学大会口头报告（柏林）\n2023年全国青年生态学者论坛海报展示一等奖"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "教育背景",
+    "section": "",
+    "text": "华中农业大学 | 2022-2025\n- 核心课程：景观生态学、生态系统模拟、遥感应用 - 研究方向：城市绿地系统生态服务功能评估 - GPA: 3.8/4.0（专业前5%）\n\n\n\n华中农业大学 | 2018-2022\n- 核心课程：植物生理学、遗传育种学、园林设计 - 毕业论文：城市垂直绿化对微气候的影响研究 - 获得校级优秀毕业论文"
+  },
+  {
+    "objectID": "education.html#硕士-生态学",
+    "href": "education.html#硕士-生态学",
+    "title": "教育背景",
+    "section": "",
+    "text": "华中农业大学 | 2022-2025\n- 核心课程：景观生态学、生态系统模拟、遥感应用 - 研究方向：城市绿地系统生态服务功能评估 - GPA: 3.8/4.0（专业前5%）"
+  },
+  {
+    "objectID": "education.html#本科-园艺学",
+    "href": "education.html#本科-园艺学",
+    "title": "教育背景",
+    "section": "",
+    "text": "华中农业大学 | 2018-2022\n- 核心课程：植物生理学、遗传育种学、园林设计 - 毕业论文：城市垂直绿化对微气候的影响研究 - 获得校级优秀毕业论文"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "许丽华 - 生态学硕士",
+    "section": "",
+    "text": "个人照片\n\n\n::: {.text-center .mt-3} 生态学硕士 | 华中农业大学\n湖北武汉\nxulihua@example.com\n:::"
+  },
+  {
+    "objectID": "index.html#荣誉奖项",
+    "href": "index.html#荣誉奖项",
+    "title": "许丽华 - 生态学硕士",
+    "section": "荣誉奖项",
+    "text": "荣誉奖项\n\n2024 全国大学生生态创新大赛一等奖\n2023 湖北省优秀毕业生\n2022 国家奖学金获得者\n2021 华中农大科技创新标兵"
+  },
+  {
+    "objectID": "index.html#专业技能",
+    "href": "index.html#专业技能",
+    "title": "许丽华 - 生态学硕士",
+    "section": "专业技能",
+    "text": "专业技能\n\n\n编程能力\n R/Python\n GIS/ENVI\n MATLAB\n\n\n语言能力\n 英语 CET-6\n 德语 A2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "项目经历",
+    "section": "",
+    "text": "2023.03-2024.02 | 项目负责人\n- 开发基于Python的生态服务价值评估模型 - 集成GIS空间分析与遥感数据解译功能 - 系统部署于武汉市园林局，服务面积超500km²\n# 生态服务价值计算核心函数\ndef calculate_esv(landuse, ndvi):\n    coeff = {\n        'forest': 3.45,\n        'lawn': 2.78,\n        'water': 4.12\n    }\n    return sum([coeff[lu] * area for lu, area in landuse.items()]) * ndvi"
+  },
+  {
+    "objectID": "projects.html#城市绿地生态评估系统开发",
+    "href": "projects.html#城市绿地生态评估系统开发",
+    "title": "项目经历",
+    "section": "",
+    "text": "2023.03-2024.02 | 项目负责人\n- 开发基于Python的生态服务价值评估模型 - 集成GIS空间分析与遥感数据解译功能 - 系统部署于武汉市园林局，服务面积超500km²\n# 生态服务价值计算核心函数\ndef calculate_esv(landuse, ndvi):\n    coeff = {\n        'forest': 3.45,\n        'lawn': 2.78,\n        'water': 4.12\n    }\n    return sum([coeff[lu] * area for lu, area in landuse.items()]) * ndvi"
+  },
+  {
+    "objectID": "projects.html#垂直绿化热岛效应监测",
+    "href": "projects.html#垂直绿化热岛效应监测",
+    "title": "项目经历",
+    "section": " 垂直绿化热岛效应监测",
+    "text": "垂直绿化热岛效应监测\n2021.09-2022.06 | 核心成员\n- 建立20个城市样点的微气候观测网络 - 开发基于Arduino的自动监测设备 - 数据分析显示垂直绿化使环境温度降低1.2-3.4℃"
+  }
+]
